@@ -98,6 +98,11 @@ I also kept track of system design questions I had covered in a simplified table
 - [Difference between Abstract Class and Interface in Java
 ](https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-java/) ⏱ (Java)
 
+### Infrastructure
+- [Shell Scripting Bash](https://google.github.io/styleguide/shellguide.html)
+- [Generating SSL/TLS certificate](https://letsencrypt.org)
+- [Containerization Primer](https://developer.ibm.com/articles/breaking-down-docker-and-microservices/)
+
 ### Front-end
 
 Disclaimer: This one's hard given how quickly front-end technologies evolve and how different frameworks and libraries are implemented. Below are some topics that are covered irrespective of framework.
